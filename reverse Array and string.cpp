@@ -79,7 +79,7 @@ int main(){
     reverseString(name);
     cout<<"your array elements: "<<endl;
     for(auto i : arr){
-        cout<<i<<" ";
+        cout<<i<<" "<<"";
     }cout<<endl;
     
     cout<<"reverse name: "<<name<<endl;
